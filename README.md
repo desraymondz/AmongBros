@@ -6,8 +6,17 @@ A side-scrolling platform adventure game built with p5.js where you control a sp
 
 **🎮 [Play the game now!](https://among-bros.vercel.app/)**
 
-![Game Screenshot](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🎥 Demo Video
+
+[![Space Explorer Demo](https://img.youtube.com/vi/Kv9hFWTWo88/0.jpg)](https://youtu.be/Kv9hFWTWo88)
+
+**Watch the demo:** https://youtu.be/Kv9hFWTWo88
+
+## 🛠️ Tech Stack
+
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Grade](https://img.shields.io/badge/Grade-93%2F100-brightgreen)
 
 ## 🎮 How to Play
 
@@ -199,10 +208,4 @@ This game was developed as part of the ITP1 Final Exam Coursework. See `Commenta
 
 ## 📄 License
 
-This project is created for educational purposes as part of university coursework.
-
----
-
-**Enjoy your space adventure! 🚀✨**
-
-Made with ❤️ using p5.js
+This project is part of ITP1 coursework and is intended for educational purposes.
